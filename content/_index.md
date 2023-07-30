@@ -1,27 +1,40 @@
 ---
-title: 🪴 Quartz 3.3
+title: Ayush 
 enableToc: false
 ---
+<h1>Heyo, I'm [[Ayush]] 👋</h1>
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+I'm a high school senior at Foothill High School in California who's interested in pursuing the field of STEM. 
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+- I am currently working under [[Dr. Rhonda McEwen]]'s lab [[Emerging Technologies and the Arts Lab]] at [[University of Toronto]]
+- I am currently a Web/Tech Organizer at [JAMHacks](https://www.jamhacks.ca) a hackathon hosted at [[University of Waterloo]]
+- I am developing [[RubiksCube-AI |Rubiks]] an application that analyzes and solves Rubiks Cubes
+- I have previously been offered a job at [[Cohere]] as an Intern of Technical Staff
+- I love to workout 🏋️ love cars 🚗 and enjoy playing badminton 🏸
+> Currently seeking Summer 2024 internships
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+<h2>My Mind 🧠</h2>
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+I started taking notes on [[Obsidian]] on October 15, 2022 
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+The goal of publicizing these notes is to give the world a look into my experiences while also keeping me accountable to have my notes follow a certain quality or standard. For more information check out [[Why I started writing notes]]
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+Browse My Mind:
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+- Use the search bar on the top right of the page to look for my opinions or knowledge on a specific topic
+- At the time of writing this my notes are very disorganized and follow no particular pattern, I aim to improve this in the future
+- If you would like to learn more about me and view some of my "formal" writing check out my [blog](https://medium.com/@ayushrgarg)
+
+⚠️ By no means are my notes perfect, I learn differently and view things differently than other people and therefore I recommend you take what you see with a [[Grain of salt |grain of salt]] 
+
+<h2>In Times Gone By</h2>
+
+![[image/TTSF.jpeg]]
+<center><i><p>Speaker at [[Teen Tech San Francisco|TTSF]] STEM Inclusivity Forum</p></i></center>
+
+
+- I interned at Our Wave Hub in a partner program with [AppleEDU](https://twitter.com/AppleEDU) where I developed iOS Apps with [[Swift]]
+- I completed the Junior Achievement company program where I led team PackItIn as acting CEO
+- [[DECA]] General Member, participated in Principle of Business Management and received Top 10 overall & Top 10 roleplays at Peel Regionals 2023, also scored 95/100 and 90/100 at DECA Provincials 2023
+- Developer on the Discord Bot Yua with 200,000+ daily active users
 
