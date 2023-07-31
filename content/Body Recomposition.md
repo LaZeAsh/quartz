@@ -1,5 +1,7 @@
 ---
 title: "Body Recomp"
+tags:
+- Fitness
 ---
 **Body Recomposition - Building Muscle and Losing Fat at the same time**
 

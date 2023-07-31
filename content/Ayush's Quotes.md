@@ -1,6 +1,8 @@
 ---
 title: "Ayush's Quotes"
 aliases: ayush
+tags:
+- Ayush
 ---
 - At the end of the day nobody's perfect we just have to incorporate the best of other people and try to make ourselves the best versions of ourselves that we can be
 

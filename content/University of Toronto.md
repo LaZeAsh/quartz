@@ -1,6 +1,8 @@
 ---
 title: "UofT"
 aliases: UofT
+tags:
+- University
 ---
 
 University of Toronto, also known as the "Harvard of Canada"

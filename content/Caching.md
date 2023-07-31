@@ -1,5 +1,7 @@
 ---
 title: "Caching"
+tags:
+- Programming
 ---
 Why?
 - If something uses a lot of resources instead of doing it again and again you want to use the data
@@ -8,3 +10,7 @@ Why?
 - Cost effective
 - Caching is a pain but it's very useful
 - Makes your program faster as well
+
+[[University of Toronto]]
+
+![[images/TTSF.jpeg]]
