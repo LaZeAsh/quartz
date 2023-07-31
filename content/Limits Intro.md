@@ -17,7 +17,7 @@ the line approaches 5 both left and right when x = 3 $\therefore$ the limit of f
 
 The limit of f at x = value is result
 
-![[image/Pasted image 20230718191020.png]]
+![[images/Pasted image 20230718191020.png]]
 
 The symbol lim means we're taking a limit of something
 
@@ -25,7 +25,7 @@ The symbol lim means we're taking a limit of something
 
 f(x) = x + 2 as the x-values get very close to 3 (we do not care about f(3) itself)
 
-![[image/Pasted image 20230718191259.png]]
+![[images/Pasted image 20230718191259.png]]
 
 In limits, we don't want to get infinitely big, but infinitely close. When we say lim f(x) = 5 we mean we can always get closer and closer to 5
 	x -> 3

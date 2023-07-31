@@ -15,8 +15,8 @@ x -> -2$^-$                 x -> -2$^+$
 
 Example linked below:
 
-![[image/Pasted image 20230718222301.png]]
+![[images/Pasted image 20230718222301.png]]
 
-![[image/IMG_E89C201B4D8E-1.jpeg]]
+![[images/IMG_E89C201B4D8E-1.jpeg]]
 
 **THIS RULE EXISTS FOR ALL LIMIT PROPERTIES NOT JUST SUM PROPERTY OF LIMITS** 

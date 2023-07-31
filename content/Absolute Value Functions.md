@@ -31,4 +31,4 @@ a - vertical stretch / compression
 
 ## In class notes
 
-![[image/CV-8.jpg]]
+![[images/CV-8.jpg]]

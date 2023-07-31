@@ -29,7 +29,7 @@ Browse My Mind:
 
 <h2>In Times Gone By</h2>
 
-![[image/TTSF.jpeg]]
+![[images/TTSF.jpeg]]
 <center><i><p>Speaker at [[Teen Tech San Francisco|TTSF]] STEM Inclusivity Forum</p></i></center>
 
 

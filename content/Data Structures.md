@@ -11,5 +11,5 @@ title: "Data Structures"
 - to get value of an element of tuple use do `tup1[element]`
 - Tuples are immutable so you can't change or update value of existing tuples
 - To delete tuples do `del [tupleName]`
-![[image/Pasted image 20221101112939.png]]
+![[images/Pasted image 20221101112939.png]]
 

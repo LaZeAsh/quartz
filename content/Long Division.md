@@ -10,4 +10,4 @@ title: "Long Division"
 
 ## Method 
 
-![[image/Pasted image 20230306085224.png]]
+![[images/Pasted image 20230306085224.png]]

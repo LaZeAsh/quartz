@@ -13,7 +13,7 @@ Use the direction $\Rightarrow$ $\Downarrow$
 
 ### Example
 
-![[image/IMG_0066.jpg]]
+![[images/IMG_0066.jpg]]
 
 ## Result
 Results in a matrix with the row of the 1st matrix and the column of the 2nd matrix
