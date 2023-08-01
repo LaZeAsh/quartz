@@ -1,5 +1,7 @@
 ---
 title: "Limits of Combined Functions"
+tags:
+- AP Calculus BC
 ---
 lim\[f(x) * h(x)]
 x -> 0

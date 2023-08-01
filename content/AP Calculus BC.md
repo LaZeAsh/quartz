@@ -1,5 +1,7 @@
 ---
 title: "AP Calculus BC"
+tags:
+- Grade 12 Course
 ---
 Taking this course my [[grade 12]] year and I want to get a headstart on it hence I will be studying and watching lessons
 
@@ -21,4 +23,7 @@ Quiz 1 Score: 6/6 (100%)
 - [[Limits of combined functions]]
 - [[Limits of combined functions piecewise functions]]
 - [[Theorem for limits of composite functions]]
+- [[Limits for composite functions, internal limit doesn't exist]]
+- [[Limits for composite functions, external limit doesn't exist]]
+- 
 

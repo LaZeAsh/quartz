@@ -1,5 +1,7 @@
 ---
 title: "Average Atomic Mass"
+tags:
+- AP Chemistry
 ---
 Atomic Mass Unit: amu or u
 

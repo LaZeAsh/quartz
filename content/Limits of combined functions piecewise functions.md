@@ -1,5 +1,7 @@
 ---
 title: "Limits of combined functions (piecewise)"
+tags:
+- AP Calculus BC
 ---
 When using [[Limit properties]] to solve limit equations but it seems like the limit may **NOT** exist due to the left and right limits not being the same use this method
 

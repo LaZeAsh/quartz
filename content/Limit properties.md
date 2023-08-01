@@ -1,5 +1,7 @@
 ---
 title: "Limit Properties"
+tags:
+- AP Calculus BC
 ---
 lim f(x) = L
 x -> c

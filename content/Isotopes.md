@@ -1,6 +1,8 @@
 ---
 title: "Isotopes"
 aliases: Isotope Notation
+tags:
+- AP Chemistry
 ---
 In chemistry you can have different versions of the same element which are known as Isotopes
 

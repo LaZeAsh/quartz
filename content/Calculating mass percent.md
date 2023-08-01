@@ -1,5 +1,7 @@
 ---
 title: "Calculate Mass %"
+tags:
+- AP Chemistry
 ---
 ## How
 

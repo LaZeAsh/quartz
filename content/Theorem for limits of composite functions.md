@@ -1,5 +1,7 @@
 ---
 title: "Theorem for limits"
+tags:
+- AP Calculus BC
 ---
 lim f(g(x)) = f(lim g(x))
 x -> a           x -> a
@@ -27,4 +29,6 @@ Both of are conditions have been sufficed does our condition hold true?
 
 
 ## When conditions aren't met
+
+When both conditions aren't met you cannot apply the theorem but that doesn't mean the limit doesn't exist
 

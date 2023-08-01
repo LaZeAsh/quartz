@@ -1,5 +1,7 @@
 ---
 title: "Estimating lim values tables"
+tags:
+- AP Calculus BC
 ---
 Tables can be a powerful tool to approximate a limit, but they need to be used wisely. Learn how to create tables in order to find a good approximation of a limit, and learn how to approximate a limit given a table of values
 

@@ -1,5 +1,7 @@
 ---
 title: "Empirical Molecular & Structural"
+tags:
+- AP Chemistry
 ---
 ## Empirical formula
 

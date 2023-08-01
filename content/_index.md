@@ -6,12 +6,21 @@ enableToc: false
 
 I'm a high school senior at Foothill High School in California who's interested in pursuing the field of STEM. 
 
+*Try clicking on the highlighted portions to view my notes on that topic*
+
 - I am currently working under [[Dr. Rhonda McEwen]]'s lab [[Emerging Technologies and the Arts Lab]] at [[University of Toronto]]
 - I am currently a Web/Tech Organizer at [JAMHacks](https://www.jamhacks.ca) a hackathon hosted at [[University of Waterloo]]
 - I am developing [[RubiksCube-AI |Rubiks]] an application that analyzes and solves Rubiks Cubes
 - I have previously been offered a job at [[Cohere]] as an Intern of Technical Staff
 - I love to workout 🏋️ love cars 🚗 and enjoy playing badminton 🏸
-> Currently seeking Summer 2024 internships
+
+Currently learning:
+- [[AP Calculus BC]]
+- [[AP Chemistry]]
+
+Favorite Quote:
+
+Currently Reading:
 
 <h2>My Mind 🧠</h2>
 

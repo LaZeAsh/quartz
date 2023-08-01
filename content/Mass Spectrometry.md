@@ -1,5 +1,7 @@
 ---
 title: "Mass Spectrometry"
+tags:
+- AP Chemistry
 ---
 Relative abundance of each isotope can be determined using mass spectrometry
 
