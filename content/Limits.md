@@ -3,6 +3,9 @@ title: "Limits"
 tags:
 - AP Calculus BC
 ---
+## Strategy
+
+![[images/Pasted image 20230803121917.png]] 
 ## Notation
 
 ![[images/Pasted image 20230718191020.png]]

@@ -1,8 +1,8 @@
 ---
-title: "UofW"
+title: "University of Waterloo"
 aliases: UW
 tags:
-- University
+- University of Waterloo
 ---
 University of Waterloo is an university I look forward to applying to this year and attending if I am accepted
 

@@ -18,7 +18,7 @@ Currently learning:
 - [[AP Calculus BC]]
 - [[AP Chemistry]]
 
-Favorite Quote:
+Quote that inspires me:
 
 Currently Reading:
 

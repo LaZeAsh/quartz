@@ -43,3 +43,9 @@ Body Recomposition is for everyone unless you are truly advanced trainee with ev
 	3. Carb: Fill in the rest
 5. Pay attention to the details
 	1. Sleep more
+
+## My plan
+
+My maintenance calories is 2650 and if I follow the plan with a 20% caloric reduction then the new # of calories I should be eating everyday is 2120 calories 
+
+I will be following the [[ChatGPT PPL]] plan

@@ -25,5 +25,13 @@ Quiz 1 Score: 6/6 (100%)
 - [[Theorem for limits of composite functions]]
 - [[Limits for composite functions, internal limit doesn't exist]]
 - [[Limits for composite functions, external limit doesn't exist]]
-- 
+- [[Limits by direct substitution]]
+- [[Limits of trigonometric functions]]
+- [[Limits of piecewise functions]]
 
+Quiz 2 Score: 5/6 (83%)
+
+- [[Limits by factoring]]
+- [[Limits by rationalizing]]
+- [[Limits using trig identities]]
+- 

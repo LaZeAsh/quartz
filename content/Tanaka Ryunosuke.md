@@ -13,9 +13,9 @@ I feel like Tanaka resembles [[Ayush|me]] as a person the most. His mindset of e
 
 In the anime: 
 - Kageyama & Hinata have their quick attack
-- Nishinoya was a great defender
-- Asahi was a powerful ace
-- Tsukkishima was a great blocker
+- Nishinoya is a great defender
+- Asahi is a powerful ace
+- Tsukkishima is a great blocker
 - And the list goes on...
 
 The part that gave me goosebumps was when he said to himself, "My average self, do you really have time to look down like that?". Then he proceeded to make a sick cross shot winning Team Karasuno set 1 of a 3 set game.

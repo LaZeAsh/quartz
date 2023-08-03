@@ -1,6 +1,8 @@
 ---
 title: "Fitness Journey"
 aliases: Fitness
+tags:
+- Fitness
 ---
 ## Important Links
 
